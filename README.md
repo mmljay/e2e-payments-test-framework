@@ -1,7 +1,6 @@
 # End-to-End Payments Testing Framework & Strategy
 
-I built this framework to demonstrate how I approach quality assurance for payment systems in banking. The focus is on clarity, risk-based testing, and compliance awareness without overengineering.
-
+I built this framework to demonstrate how I approach quality assurance for payment systems in banking. The focus is on clarity, risk-based testing, and compliance awareness.
 ## What this project covers
 
 - **SEPA credit transfers** with IBAN validation
@@ -114,5 +113,5 @@ GitHub Actions runs:
 
 ---
 
-**Built by:** Jayawardena M.  
-**Last updated:** 2025-10-15
+**Built by:** Malsha Jayawardena  
+
